@@ -10,8 +10,16 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "axios": "^0.19.2",
+    "galio-framework": "^0.6.3",
+    "lodash": "^4.17.15",
+    "prop-types": "^15.7.2",
+    "querystring": "^0.2.0",
     "react": "16.9.0",
-    "react-native": "0.61.5"
+    "react-native": "0.61.5",
+    "react-redux": "^7.1.3",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
