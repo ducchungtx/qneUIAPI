@@ -1,0 +1,6 @@
+// MAIN FETCH ACTION TYPE
+export const FETCH_START = 'FETCH_START';
+export const FETCH_RESET = 'FETCH_RESET';
+export const FETCH_RESET_ITEM = 'FETCH_RESET_ITEM';
+export const FETCH_SUCCESS = 'FETCH_SUCCESS';
+export const FETCH_ERROR = 'FETCH_ERROR';
